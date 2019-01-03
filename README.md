@@ -1,9 +1,5 @@
 # ESP-CAM使用教程
 
-作者: 阿凯 (QQ 244561792)
-
-**1Z实验室(1zlab)出品 : make things easy**
-
 ## ESP-CAM 简介
 
 ESP-CAM采用**ESP32**作为主控, 感光芯片为**OV2640**. 可以实现**WIFI传图**的功能. [Github开源项目地址](https://github.com/igrr/esp32-cam-demo) 
@@ -103,5 +99,4 @@ partitions_singleapp.bin
 
 ```
 
-## 1Z实验室(1zlab)
-![1zlab](./IMG/宣传海报.png)
+## 
